@@ -29,7 +29,7 @@ We already installed the Ternoa-JS, you can directly run the following command:
   npm install
 ```
 
-In the `.env.exemple` file, you will find the expected environement variables. Copy and paste them into a `.env` file at the root of the project.
+In the `.env.example` file, you will find the expected environement variables. Copy and paste them into a `.env` file at the root of the project.
 
 - `SEED_TEST_FUNDS`: Your [Ternoa account](https://docs.ternoa.network/for-developers/get-started/create-account) _seed_ you will use to sign transactions.
 - `IPFS_API_KEY`: An IPFS KEY generated with the Ternoa [IPFS Key manager](https://ipfs-key-manager-git-dev-ternoa.vercel.app/).
